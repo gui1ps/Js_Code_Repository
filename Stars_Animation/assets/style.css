@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: radial-gradient(circle at 79.88% -14.09%, #63beff 0, #488ee5 50%, #2e619f 100%);
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
